@@ -18,3 +18,12 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+
+/vendor/
+.env.local
+/var/
+/node_modules/
+/public/bundles/
+/.env.test.local
+/.idea/
+/.symfony/
